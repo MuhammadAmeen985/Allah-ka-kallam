@@ -1,0 +1,813 @@
+{
+  "id": 77,
+  "nameArabic": "المرسلات",
+  "nameTransliteration": "Al-Mursalaat",
+  "nameEnglish": "The Emissaries",
+  "ayahCount": 50,
+  "revelationType": "Meccan",
+  "revelationOrder": 33,
+  "rukus": 2,
+  "startAyahGlobal": 5622,
+  "verses": [
+    {
+      "ayah": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَٰتِ عُرْفًا",
+      "translations": {
+        "en": {
+          "text": "By those [winds] sent forth in gusts",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "ہواؤں کی قسم جو نرم نرم چلتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 2,
+      "arabic": "فَٱلْعَٰصِفَٰتِ عَصْفًا",
+      "translations": {
+        "en": {
+          "text": "And the winds that blow violently",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر زور پکڑ کر جھکڑ ہو جاتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 3,
+      "arabic": "وَٱلنَّٰشِرَٰتِ نَشْرًا",
+      "translations": {
+        "en": {
+          "text": "And [by] the winds that spread [clouds]",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور (بادلوں کو) پھاڑ کر پھیلا دیتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 4,
+      "arabic": "فَٱلْفَٰرِقَٰتِ فَرْقًا",
+      "translations": {
+        "en": {
+          "text": "And those [angels] who bring criterion",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر ان کو پھاڑ کر جدا جدا کر دیتی ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 5,
+      "arabic": "فَٱلْمُلْقِيَٰتِ ذِكْرًا",
+      "translations": {
+        "en": {
+          "text": "And those [angels] who deliver a message",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر فرشتوں کی قسم جو وحی لاتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 6,
+      "arabic": "عُذْرًا أَوْ نُذْرًا",
+      "translations": {
+        "en": {
+          "text": "As justification or warning,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "تاکہ عذر (رفع) کردیا جائے یا ڈر سنا دیا جائے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 7,
+      "arabic": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "translations": {
+        "en": {
+          "text": "Indeed, what you are promised is to occur.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کہ جس بات کا تم سے وعدہ کیا جاتا ہے وہ ہو کر رہے گی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 8,
+      "arabic": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "translations": {
+        "en": {
+          "text": "So when the stars are obliterated",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "جب تاروں کی چمک جاتی رہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 9,
+      "arabic": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "translations": {
+        "en": {
+          "text": "And when the heaven is opened",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جب آسمان پھٹ جائے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 10,
+      "arabic": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "translations": {
+        "en": {
+          "text": "And when the mountains are blown away",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جب پہاڑ اُڑے اُڑے پھریں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 11,
+      "arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "translations": {
+        "en": {
+          "text": "And when the messengers' time has come...",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جب پیغمبر فراہم کئے جائیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 12,
+      "arabic": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "translations": {
+        "en": {
+          "text": "For what Day was it postponed?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "بھلا (ان امور میں) تاخیر کس دن کے لئے کی گئی؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 13,
+      "arabic": "لِيَوْمِ ٱلْفَصْلِ",
+      "translations": {
+        "en": {
+          "text": "For the Day of Judgement.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "فیصلے کے دن کے لئے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 14,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "translations": {
+        "en": {
+          "text": "And what can make you know what is the Day of Judgement?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور تمہیں کیا خبر کہ فیصلے کا دن کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 15,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کے لئے خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 16,
+      "arabic": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "translations": {
+        "en": {
+          "text": "Did We not destroy the former peoples?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کیا ہم نے پہلے لوگوں کو ہلاک نہیں کر ڈالا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 17,
+      "arabic": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+      "translations": {
+        "en": {
+          "text": "Then We will follow them with the later ones.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر ان پچھلوں کو بھی ان کے پیچھے بھیج دیتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 18,
+      "arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "translations": {
+        "en": {
+          "text": "Thus do We deal with the criminals.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "ہم گنہگاروں کے ساتھ ایسا ہی کیا کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 19,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 20,
+      "arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "translations": {
+        "en": {
+          "text": "Did We not create you from a liquid disdained?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کیا ہم نے تم کو حقیر پانی سے نہیں پیدا کیا؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 21,
+      "arabic": "فَجَعَلْنَٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "translations": {
+        "en": {
+          "text": "And We placed it in a firm lodging",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس کو ایک محفوظ جگہ میں رکھا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 22,
+      "arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "translations": {
+        "en": {
+          "text": "For a known extent.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "ایک وقت معین تک",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 23,
+      "arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "translations": {
+        "en": {
+          "text": "And We determined [it], and excellent [are We] to determine.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر اندازہ مقرر کیا اور ہم کیا ہی خوب اندازہ مقرر کرنے والے ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 24,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 25,
+      "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "translations": {
+        "en": {
+          "text": "Have We not made the earth a container",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کیا ہم نے زمین کو سمیٹنے والی نہیں بنایا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 26,
+      "arabic": "أَحْيَآءً وَأَمْوَٰتًا",
+      "translations": {
+        "en": {
+          "text": "Of the living and the dead?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یعنی) زندوں اور مردوں کو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 27,
+      "arabic": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍ وَأَسْقَيْنَٰكُم مَّآءً فُرَاتًا",
+      "translations": {
+        "en": {
+          "text": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(بنایا) اور اس پر اونچے اونچے پہاڑ رکھ دیئے اور تم لوگوں کو میٹھا پانی پلایا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 28,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 29,
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translations": {
+        "en": {
+          "text": "[They will be told], \"Proceed to that which you used to deny.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "جس چیز کو تم جھٹلایا کرتے تھے۔ (اب) اس کی طرف چلو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 30,
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَٰثِ شُعَبٍ",
+      "translations": {
+        "en": {
+          "text": "Proceed to a shadow [of smoke] having three columns",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(یعنی) اس سائے کی طرف چلو جس کی تین شاخیں ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 31,
+      "arabic": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "translations": {
+        "en": {
+          "text": "[But having] no cool shade and availing not against the flame.\"",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "نہ ٹھنڈی چھاؤں اور نہ لپٹ سے بچاؤ",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 32,
+      "arabic": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "translations": {
+        "en": {
+          "text": "Indeed, it throws sparks [as huge] as a fortress,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس سے (آگ کی اتنی اتنی بڑی) چنگاریاں اُڑتی ہیں جیسے محل",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 33,
+      "arabic": "كَأَنَّهُۥ جِمَٰلَتٌ صُفْرٌ",
+      "translations": {
+        "en": {
+          "text": "As if they were yellowish [black] camels.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "گویا زرد رنگ کے اونٹ ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 34,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 35,
+      "arabic": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "translations": {
+        "en": {
+          "text": "This is a Day they will not speak,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یہ وہ دن ہے کہ (لوگ) لب تک نہ ہلا سکیں گے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 36,
+      "arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "translations": {
+        "en": {
+          "text": "Nor will it be permitted for them to make an excuse.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور نہ ان کو اجازت دی جائے گی کہ عذر کرسکیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 37,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 38,
+      "arabic": "هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ",
+      "translations": {
+        "en": {
+          "text": "This is the Day of Judgement; We will have assembled you and the former peoples.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یہی فیصلے کا دن ہے (جس میں) ہم نے تم کو اور پہلے لوگوں کو جمع کیا ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 39,
+      "arabic": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "translations": {
+        "en": {
+          "text": "So if you have a plan, then plan against Me.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اگر تم کو کوئی داؤں آتا ہو تو مجھ سے کر لو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 40,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 41,
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍ وَعُيُونٍ",
+      "translations": {
+        "en": {
+          "text": "Indeed, the righteous will be among shades and springs",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "بےشک پرہیزگار سایوں اور چشموں میں ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 42,
+      "arabic": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "translations": {
+        "en": {
+          "text": "And fruits from whatever they desire,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور میؤوں میں جو ان کو مرغوب ہوں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 43,
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "translations": {
+        "en": {
+          "text": "[Being told], \"Eat and drink in satisfaction for what you used to do.\"",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جو عمل تم کرتے رہے تھے ان کے بدلے میں مزے سے کھاؤ اور پیو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 44,
+      "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translations": {
+        "en": {
+          "text": "Indeed, We thus reward the doers of good.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "ہم نیکو کاروں کو ایسا ہی بدلہ دیا کرتے ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 45,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہوگی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 46,
+      "arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "translations": {
+        "en": {
+          "text": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(اے جھٹلانے والو!) تم کسی قدر کھا لو اور فائدے اُٹھا لو تم بےشک گنہگار ہو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 47,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 48,
+      "arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "translations": {
+        "en": {
+          "text": "And when it is said to them, \"Bow [in prayer],\" they do not bow.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جب ان سے کہا جاتا ہے کہ (خدا کے آگے) جھکو تو جھکتے نہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 49,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": {
+          "text": "Woe, that Day, to the deniers.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن جھٹلانے والوں کی خرابی ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 50,
+      "arabic": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "translations": {
+        "en": {
+          "text": "Then in what statement after the Qur'an will they believe?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اب اس کے بعد یہ کون سی بات پر ایمان لائیں گے؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    }
+  ]
+}

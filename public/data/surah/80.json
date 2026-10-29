@@ -1,0 +1,685 @@
+{
+  "id": 80,
+  "nameArabic": "عبس",
+  "nameTransliteration": "Abasa",
+  "nameEnglish": "He frowned",
+  "ayahCount": 42,
+  "revelationType": "Meccan",
+  "revelationOrder": 24,
+  "rukus": 1,
+  "startAyahGlobal": 5758,
+  "verses": [
+    {
+      "ayah": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ",
+      "translations": {
+        "en": {
+          "text": "The Prophet frowned and turned away",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(محمد مصطفٰےﷺ) ترش رُو ہوئے اور منہ پھیر بیٹھے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 2,
+      "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+      "translations": {
+        "en": {
+          "text": "Because there came to him the blind man, [interrupting].",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کہ ان کے پاس ایک نابینا آیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 3,
+      "arabic": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "translations": {
+        "en": {
+          "text": "But what would make you perceive, [O Muhammad], that perhaps he might be purified",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور تم کو کیا خبر شاید وہ پاکیزگی حاصل کرتا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 4,
+      "arabic": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+      "translations": {
+        "en": {
+          "text": "Or be reminded and the remembrance would benefit him?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یا سوچتا تو سمجھانا اسے فائدہ دیتا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 5,
+      "arabic": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+      "translations": {
+        "en": {
+          "text": "As for he who thinks himself without need,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "جو پروا نہیں کرتا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 6,
+      "arabic": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "translations": {
+        "en": {
+          "text": "To him you give attention.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس کی طرف تو تم توجہ کرتے ہو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 7,
+      "arabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "translations": {
+        "en": {
+          "text": "And not upon you [is any blame] if he will not be purified.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "حالانکہ اگر وہ نہ سنورے تو تم پر کچھ (الزام) نہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 8,
+      "arabic": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+      "translations": {
+        "en": {
+          "text": "But as for he who came to you striving [for knowledge]",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جو تمہارے پاس دوڑتا ہوا آیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 9,
+      "arabic": "وَهُوَ يَخْشَىٰ",
+      "translations": {
+        "en": {
+          "text": "While he fears [Allah],",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور (خدا سے) ڈرتا ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 10,
+      "arabic": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+      "translations": {
+        "en": {
+          "text": "From him you are distracted.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس سے تم بےرخی کرتے ہو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 11,
+      "arabic": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+      "translations": {
+        "en": {
+          "text": "No! Indeed, these verses are a reminder;",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "دیکھو یہ (قرآن) نصیحت ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 12,
+      "arabic": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "translations": {
+        "en": {
+          "text": "So whoever wills may remember it.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پس جو چاہے اسے یاد رکھے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 13,
+      "arabic": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+      "translations": {
+        "en": {
+          "text": "[It is recorded] in honored sheets,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "قابل ادب ورقوں میں (لکھا ہوا)",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 14,
+      "arabic": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+      "translations": {
+        "en": {
+          "text": "Exalted and purified,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "جو بلند مقام پر رکھے ہوئے (اور) پاک ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 15,
+      "arabic": "بِأَيْدِى سَفَرَةٍ",
+      "translations": {
+        "en": {
+          "text": "[Carried] by the hands of messenger-angels,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "لکھنے والوں کے ہاتھوں میں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 16,
+      "arabic": "كِرَامٍۭ بَرَرَةٍ",
+      "translations": {
+        "en": {
+          "text": "Noble and dutiful.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "جو سردار اور نیکو کار ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 17,
+      "arabic": "قُتِلَ ٱلْإِنسَٰنُ مَآ أَكْفَرَهُۥ",
+      "translations": {
+        "en": {
+          "text": "Cursed is man; how disbelieving is he.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "انسان ہلاک ہو جائے کیسا ناشکرا ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 18,
+      "arabic": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+      "translations": {
+        "en": {
+          "text": "From what substance did He create him?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اُسے (خدا نے) کس چیز سے بنایا؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 19,
+      "arabic": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "translations": {
+        "en": {
+          "text": "From a sperm-drop He created him and destined for him;",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "نطفے سے بنایا پھر اس کا اندازہ مقرر کیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 20,
+      "arabic": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "translations": {
+        "en": {
+          "text": "Then He eased the way for him;",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر اس کے لیے رستہ آسان کر دیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 21,
+      "arabic": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+      "translations": {
+        "en": {
+          "text": "Then He causes his death and provides a grave for him.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر اس کو موت دی پھر قبر میں دفن کرایا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 22,
+      "arabic": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "translations": {
+        "en": {
+          "text": "Then when He wills, He will resurrect him.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر جب چاہے گا اسے اٹھا کھڑا کرے گا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 23,
+      "arabic": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+      "translations": {
+        "en": {
+          "text": "No! Man has not yet accomplished what He commanded him.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کچھ شک نہیں کہ خدا نے اسے جو حکم دیا اس نے اس پر عمل نہ کیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 24,
+      "arabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "translations": {
+        "en": {
+          "text": "Then let mankind look at his food -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "تو انسان کو چاہیئے کہ اپنے کھانے کی طرف نظر کرے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 25,
+      "arabic": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+      "translations": {
+        "en": {
+          "text": "How We poured down water in torrents,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "بے شک ہم ہی نے پانی برسایا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 26,
+      "arabic": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+      "translations": {
+        "en": {
+          "text": "Then We broke open the earth, splitting [it with sprouts],",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر ہم ہی نے زمین کو چیرا پھاڑا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 27,
+      "arabic": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+      "translations": {
+        "en": {
+          "text": "And caused to grow within it grain",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر ہم ہی نے اس میں اناج اگایا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 28,
+      "arabic": "وَعِنَبًا وَقَضْبًا",
+      "translations": {
+        "en": {
+          "text": "And grapes and herbage",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور انگور اور ترکاری",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 29,
+      "arabic": "وَزَيْتُونًا وَنَخْلًا",
+      "translations": {
+        "en": {
+          "text": "And olive and palm trees",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور زیتون اور کھجوریں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 30,
+      "arabic": "وَحَدَآئِقَ غُلْبًا",
+      "translations": {
+        "en": {
+          "text": "And gardens of dense shrubbery",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور گھنے گھنے باغ",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 31,
+      "arabic": "وَفَٰكِهَةً وَأَبًّا",
+      "translations": {
+        "en": {
+          "text": "And fruit and grass -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور میوے اور چارا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 32,
+      "arabic": "مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ",
+      "translations": {
+        "en": {
+          "text": "[As] enjoyment for you and your grazing livestock.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(یہ سب کچھ) تمہارے اور تمہارے چارپایوں کے لیے بنایا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 33,
+      "arabic": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "translations": {
+        "en": {
+          "text": "But when there comes the Deafening Blast",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "تو جب (قیامت کا) غل مچے گا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 34,
+      "arabic": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+      "translations": {
+        "en": {
+          "text": "On the Day a man will flee from his brother",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس دن آدمی اپنے بھائی سے دور بھاگے گا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 35,
+      "arabic": "وَأُمِّهِۦ وَأَبِيهِ",
+      "translations": {
+        "en": {
+          "text": "And his mother and his father",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور اپنی ماں اور اپنے باپ سے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 36,
+      "arabic": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+      "translations": {
+        "en": {
+          "text": "And his wife and his children,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور اپنی بیوی اور اپنے بیٹے سے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 37,
+      "arabic": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+      "translations": {
+        "en": {
+          "text": "For every man, that Day, will be a matter adequate for him.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "ہر شخص اس روز ایک فکر میں ہو گا جو اسے (مصروفیت کے لیے) بس کرے گا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 38,
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+      "translations": {
+        "en": {
+          "text": "[Some] faces, that Day, will be bright -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور کتنے منہ اس روز چمک رہے ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 39,
+      "arabic": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+      "translations": {
+        "en": {
+          "text": "Laughing, rejoicing at good news.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "خنداں و شاداں (یہ مومنان نیکو کار ہیں)",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 40,
+      "arabic": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+      "translations": {
+        "en": {
+          "text": "And [other] faces, that Day, will have upon them dust.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور کتنے منہ ہوں گے جن پر گرد پڑ رہی ہو گی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 41,
+      "arabic": "تَرْهَقُهَا قَتَرَةٌ",
+      "translations": {
+        "en": {
+          "text": "Blackness will cover them.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(اور) سیاہی چڑھ رہی ہو گی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 42,
+      "arabic": "أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+      "translations": {
+        "en": {
+          "text": "Those are the disbelievers, the wicked ones.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یہ کفار بدکردار ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    }
+  ]
+}

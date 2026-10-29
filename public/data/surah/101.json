@@ -1,0 +1,189 @@
+{
+  "id": 101,
+  "nameArabic": "القارعة",
+  "nameTransliteration": "Al-Qaari'a",
+  "nameEnglish": "The Calamity",
+  "ayahCount": 11,
+  "revelationType": "Meccan",
+  "revelationOrder": 30,
+  "rukus": 1,
+  "startAyahGlobal": 6157,
+  "verses": [
+    {
+      "ayah": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "translations": {
+        "en": {
+          "text": "The Striking Calamity -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کھڑ کھڑانے والی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 2,
+      "arabic": "مَا ٱلْقَارِعَةُ",
+      "translations": {
+        "en": {
+          "text": "What is the Striking Calamity?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کھڑ کھڑانے والی کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 3,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "translations": {
+        "en": {
+          "text": "And what can make you know what is the Striking Calamity?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور تم کیا جانوں کھڑ کھڑانے والی کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 4,
+      "arabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "translations": {
+        "en": {
+          "text": "It is the Day when people will be like moths, dispersed,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(وہ قیامت ہے) جس دن لوگ ایسے ہوں گے جیسے بکھرے ہوئے پتنگے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 5,
+      "arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "translations": {
+        "en": {
+          "text": "And the mountains will be like wool, fluffed up.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور پہاڑ ایسے ہو جائیں گے جیسے دھنکی ہوئی رنگ برنگ کی اون",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 6,
+      "arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "translations": {
+        "en": {
+          "text": "Then as for one whose scales are heavy [with good deeds],",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "تو جس کے (اعمال کے) وزن بھاری نکلیں گے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 7,
+      "arabic": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "translations": {
+        "en": {
+          "text": "He will be in a pleasant life.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "وہ دل پسند عیش میں ہو گا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 8,
+      "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "translations": {
+        "en": {
+          "text": "But as for one whose scales are light,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جس کے وزن ہلکے نکلیں گے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 9,
+      "arabic": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "translations": {
+        "en": {
+          "text": "His refuge will be an abyss.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اس کا مرجع ہاویہ ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 10,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "translations": {
+        "en": {
+          "text": "And what can make you know what that is?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور تم کیا سمجھے کہ ہاویہ کیا چیز ہے؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 11,
+      "arabic": "نَارٌ حَامِيَةٌۢ",
+      "translations": {
+        "en": {
+          "text": "It is a Fire, intensely hot.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "دہکتی ہوئی آگ ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    }
+  ]
+}

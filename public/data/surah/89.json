@@ -1,0 +1,493 @@
+{
+  "id": 89,
+  "nameArabic": "الفجر",
+  "nameTransliteration": "Al-Fajr",
+  "nameEnglish": "The Dawn",
+  "ayahCount": 30,
+  "revelationType": "Meccan",
+  "revelationOrder": 10,
+  "rukus": 1,
+  "startAyahGlobal": 5993,
+  "verses": [
+    {
+      "ayah": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+      "translations": {
+        "en": {
+          "text": "By the dawn",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "فجر کی قسم",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 2,
+      "arabic": "وَلَيَالٍ عَشْرٍ",
+      "translations": {
+        "en": {
+          "text": "And [by] ten nights",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور دس راتوں کی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 3,
+      "arabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "translations": {
+        "en": {
+          "text": "And [by] the even [number] and the odd",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جفت اور طاق کی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 4,
+      "arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "translations": {
+        "en": {
+          "text": "And [by] the night when it passes,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور رات کی جب جانے لگے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 5,
+      "arabic": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "translations": {
+        "en": {
+          "text": "Is there [not] in [all] that an oath [sufficient] for one of perception?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور بے شک یہ چیزیں عقلمندوں کے نزدیک قسم کھانے کے لائق ہیں کہ (کافروں کو ضرور عذاب ہو گا)",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 6,
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "translations": {
+        "en": {
+          "text": "Have you not considered how your Lord dealt with 'Aad -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کیا تم نے نہیں دیکھا کہ تمہارے پروردگار نے عاد کے ساتھ کیا کیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 7,
+      "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "translations": {
+        "en": {
+          "text": "[With] Iram - who had lofty pillars,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(جو) ارم (کہلاتے تھے اتنے) دراز قد",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 8,
+      "arabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ",
+      "translations": {
+        "en": {
+          "text": "The likes of whom had never been created in the land?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کہ تمام ملک میں ایسے پیدا نہیں ہوئے تھے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 9,
+      "arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "translations": {
+        "en": {
+          "text": "And [with] Thamud, who carved out the rocks in the valley?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور ثمود کے ساتھ (کیا کیا) جو وادئِ (قریٰ) میں پتھر تراشتے تھے (اور گھر بناتے) تھے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 10,
+      "arabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "translations": {
+        "en": {
+          "text": "And [with] Pharaoh, owner of the stakes? -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور فرعون کے ساتھ (کیا کیا) جو خیمے اور میخیں رکھتا تھا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 11,
+      "arabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ",
+      "translations": {
+        "en": {
+          "text": "[All of] whom oppressed within the lands",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یہ لوگ ملکوں میں سرکش ہو رہے تھے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 12,
+      "arabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "translations": {
+        "en": {
+          "text": "And increased therein the corruption.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور ان میں بہت سی خرابیاں کرتے تھے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 13,
+      "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "translations": {
+        "en": {
+          "text": "So your Lord poured upon them a scourge of punishment.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "تو تمہارے پروردگار نے ان پر عذاب کا کوڑا نازل کیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 14,
+      "arabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "translations": {
+        "en": {
+          "text": "Indeed, your Lord is in observation.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "بے شک تمہارا پروردگار تاک میں ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 15,
+      "arabic": "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "translations": {
+        "en": {
+          "text": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me.\"",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "مگر انسان (عجیب مخلوق ہے کہ) جب اس کا پروردگار اس کو آزماتا ہے تو اسے عزت دیتا اور نعمت بخشتا ہے۔ تو کہتا ہے کہ (آہا) میرے پروردگار نے مجھے عزت بخشی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 16,
+      "arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+      "translations": {
+        "en": {
+          "text": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me.\"",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جب (دوسری طرح) آزماتا ہے کہ اس پر روزی تنگ کر دیتا ہے تو کہتا ہے کہ (ہائے) میرے پروردگار نے مجھے ذلیل کیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 17,
+      "arabic": "كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "translations": {
+        "en": {
+          "text": "No! But you do not honor the orphan",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "نہیں بلکہ تم لوگ یتیم کی خاطر نہیں کرتے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 18,
+      "arabic": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "translations": {
+        "en": {
+          "text": "And you do not encourage one another to feed the poor.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور نہ مسکین کو کھانا کھلانے کی ترغیب دیتے ہو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 19,
+      "arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "translations": {
+        "en": {
+          "text": "And you consume inheritance, devouring [it] altogether,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور میراث کے مال سمیٹ کر کھا جاتے ہو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 20,
+      "arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "translations": {
+        "en": {
+          "text": "And you love wealth with immense love.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور مال کو بہت ہی عزیز رکھتے ہو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 21,
+      "arabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "translations": {
+        "en": {
+          "text": "No! When the earth has been leveled - pounded and crushed -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "تو جب زمین کی بلندی کوٹ کوٹ کو پست کر دی جائے گی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 22,
+      "arabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "translations": {
+        "en": {
+          "text": "And your Lord has come and the angels, rank upon rank,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور تمہارا پروردگار (جلوہ فرما ہو گا) اور فرشتے قطار باندھ باندھ کر آ موجود ہوں گے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 23,
+      "arabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "translations": {
+        "en": {
+          "text": "And brought [within view], that Day, is Hell - that Day, man will remember, but what good to him will be the remembrance?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور دوزخ اس دن حاضر کی جائے گی تو انسان اس دن متنبہ ہو گا مگر تنبہ (سے) اسے (فائدہ) کہاں (مل سکے گا)",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 24,
+      "arabic": "يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "translations": {
+        "en": {
+          "text": "He will say, \"Oh, I wish I had sent ahead [some good] for my life.\"",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کہے گا کاش میں نے اپنی زندگی (جاودانی کے لیے) کچھ آگے بھیجا ہوتا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 25,
+      "arabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "translations": {
+        "en": {
+          "text": "So on that Day, none will punish [as severely] as His punishment,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "تو اس دن نہ کوئی خدا کے عذاب کی طرح کا (کسی کو) عذاب دے گا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 26,
+      "arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "translations": {
+        "en": {
+          "text": "And none will bind [as severely] as His binding [of the evildoers].",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور نہ کوئی ویسا جکڑنا جکڑے گا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 27,
+      "arabic": "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "translations": {
+        "en": {
+          "text": "[To the righteous it will be said], \"O reassured soul,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اے اطمینان پانے والی روح!",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 28,
+      "arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "translations": {
+        "en": {
+          "text": "Return to your Lord, well-pleased and pleasing [to Him],",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اپنے پروردگار کی طرف لوٹ چل۔ تو اس سے راضی وہ تجھ سے راضی",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 29,
+      "arabic": "فَٱدْخُلِى فِى عِبَٰدِى",
+      "translations": {
+        "en": {
+          "text": "And enter among My [righteous] servants",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "تو میرے (ممتاز) بندوں میں شامل ہو جا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 30,
+      "arabic": "وَٱدْخُلِى جَنَّتِى",
+      "translations": {
+        "en": {
+          "text": "And enter My Paradise.\"",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور میری بہشت میں داخل ہو جا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": 90,
+  "nameArabic": "البلد",
+  "nameTransliteration": "Al-Balad",
+  "nameEnglish": "The City",
+  "ayahCount": 20,
+  "revelationType": "Meccan",
+  "revelationOrder": 35,
+  "rukus": 1,
+  "startAyahGlobal": 6023,
+  "verses": [
+    {
+      "ayah": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+      "translations": {
+        "en": {
+          "text": "I swear by this city, Makkah -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "ہمیں اس شہر (مکہ) کی قسم",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 2,
+      "arabic": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+      "translations": {
+        "en": {
+          "text": "And you, [O Muhammad], are free of restriction in this city -",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور تم اسی شہر میں تو رہتے ہو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 3,
+      "arabic": "وَوَالِدٍ وَمَا وَلَدَ",
+      "translations": {
+        "en": {
+          "text": "And [by] the father and that which was born [of him],",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور باپ (یعنی آدم) اور اس کی اولاد کی قسم",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 4,
+      "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+      "translations": {
+        "en": {
+          "text": "We have certainly created man into hardship.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کہ ہم نے انسان کو تکلیف (کی حالت) میں (رہنے والا) بنایا ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 5,
+      "arabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "translations": {
+        "en": {
+          "text": "Does he think that never will anyone overcome him?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کیا وہ خیال رکھتا ہے کہ اس پر کوئی قابو نہ پائے گا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 6,
+      "arabic": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "translations": {
+        "en": {
+          "text": "He says, \"I have spent wealth in abundance.\"",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کہتا ہے کہ میں نے بہت سا مال برباد کیا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 7,
+      "arabic": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "translations": {
+        "en": {
+          "text": "Does he think that no one has seen him?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کیا اسے یہ گمان ہے کہ اس کو کسی نے دیکھا نہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 8,
+      "arabic": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "translations": {
+        "en": {
+          "text": "Have We not made for him two eyes?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "بھلا ہم نےاس کو دو آنکھیں نہیں دیں؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 9,
+      "arabic": "وَلِسَانًا وَشَفَتَيْنِ",
+      "translations": {
+        "en": {
+          "text": "And a tongue and two lips?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور زبان اور دو ہونٹ (نہیں دیئے)",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 10,
+      "arabic": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+      "translations": {
+        "en": {
+          "text": "And have shown him the two ways?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "(یہ چیزیں بھی دیں) اور اس کو (خیر و شر کے) دونوں رستے بھی دکھا دیئے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 11,
+      "arabic": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "translations": {
+        "en": {
+          "text": "But he has not broken through the difficult pass.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "مگر وہ گھاٹی پر سے ہو کر نہ گزرا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 12,
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "translations": {
+        "en": {
+          "text": "And what can make you know what is [breaking through] the difficult pass?",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور تم کیا سمجھے کہ گھاٹی کیا ہے؟",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 13,
+      "arabic": "فَكُّ رَقَبَةٍ",
+      "translations": {
+        "en": {
+          "text": "It is the freeing of a slave",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کسی (کی) گردن کا چھڑانا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 14,
+      "arabic": "أَوْ إِطْعَٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "translations": {
+        "en": {
+          "text": "Or feeding on a day of severe hunger",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یا بھوک کے دن کھانا کھلانا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 15,
+      "arabic": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "translations": {
+        "en": {
+          "text": "An orphan of near relationship",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یتیم رشتہ دار کو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 16,
+      "arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "translations": {
+        "en": {
+          "text": "Or a needy person in misery",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یا فقیر خاکسار کو",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 17,
+      "arabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "translations": {
+        "en": {
+          "text": "And then being among those who believed and advised one another to patience and advised one another to compassion.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "پھر ان لوگوں میں بھی (داخل) ہو جو ایمان لائے اور صبر کی نصیحت اور (لوگوں پر) شفقت کرنے کی وصیت کرتے رہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 18,
+      "arabic": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "translations": {
+        "en": {
+          "text": "Those are the companions of the right.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یہی لوگ صاحب سعادت ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 19,
+      "arabic": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "translations": {
+        "en": {
+          "text": "But they who disbelieved in Our signs - those are the companions of the left.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور جنہوں نے ہماری آیتوں کو نہ مانا وہ بدبخت ہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 20,
+      "arabic": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "translations": {
+        "en": {
+          "text": "Over them will be fire closed in.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "یہ لوگ آگ میں بند کر دیئے جائیں گے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or reference this software, please cite it as below."
+authors:
+  - name: "The Holy Quran Open Source Project"
+title: "The Holy Quran — Multilingual Quran Web App"
+version: 1.0.0
+date-released: 2026-10-29
+url: "https://github.com/mameenaslam985/The-Holy-Quran"
+keywords:
+  - quran
+  - islamic-studies
+  - multilingual
+  - arabic
+  - urdu
+  - tanzil
+  - accessibility
+license: MIT

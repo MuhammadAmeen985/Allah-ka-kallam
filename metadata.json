@@ -1,0 +1,6 @@
+{
+  "name": "The Holy Quran — القرآن الكريم",
+  "description": "A respectful, accessible, and verified multilingual Quran reading application featuring authentic Uthmani Arabic text with English (Saheeh International) and Urdu (Fateh Muhammad Jalandhry) translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

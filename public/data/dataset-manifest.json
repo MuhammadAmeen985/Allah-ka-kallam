@@ -1,0 +1,29 @@
+{
+  "source": "Tanzil Project",
+  "sourceUrl": "https://tanzil.net",
+  "license": "Creative Commons Attribution 3.0 (CC BY 3.0)",
+  "licenseUrl": "http://creativecommons.org/licenses/by/3.0/",
+  "retrievalDate": "2026-10-29T19:42:48.888Z",
+  "arabicEdition": "Tanzil Uthmani Text (official verbatim copy)",
+  "translations": [
+    {
+      "lang": "en",
+      "name": "English",
+      "translator": "Saheeh International",
+      "edition": "en.sahih",
+      "source": "https://tanzil.net/trans/en.sahih",
+      "license": "Free for non-commercial distribution with attribution"
+    },
+    {
+      "lang": "ur",
+      "name": "Urdu",
+      "translator": "Fateh Muhammad Jalandhry (مولانا فتح محمد جالندھری)",
+      "edition": "ur.jalandhry",
+      "source": "https://tanzil.net/trans/ur.jalandhry",
+      "license": "Public domain / Tanzil redistribution"
+    }
+  ],
+  "totalSurahs": 114,
+  "totalAyahs": 6236,
+  "attributionNotice": "Tanzil Quran Text Copyright (C) 2007-2024 Tanzil Project. This copy of the Quran text is carefully produced, highly verified and continuously monitored by a group of specialists in Tanzil Project. Source: http://tanzil.net"
+}

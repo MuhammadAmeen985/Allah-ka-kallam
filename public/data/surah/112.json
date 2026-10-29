@@ -1,0 +1,77 @@
+{
+  "id": 112,
+  "nameArabic": "الإخلاص",
+  "nameTransliteration": "Al-Ikhlaas",
+  "nameEnglish": "Sincerity",
+  "ayahCount": 4,
+  "revelationType": "Meccan",
+  "revelationOrder": 22,
+  "rukus": 1,
+  "startAyahGlobal": 6221,
+  "verses": [
+    {
+      "ayah": 1,
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "translations": {
+        "en": {
+          "text": "Say, \"He is Allah, [who is] One,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "کہو کہ وہ (ذات پاک جس کا نام) الله (ہے) ایک ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 2,
+      "arabic": "ٱللَّهُ ٱلصَّمَدُ",
+      "translations": {
+        "en": {
+          "text": "Allah, the Eternal Refuge.",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "معبود برحق جو بےنیاز ہے",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 3,
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "translations": {
+        "en": {
+          "text": "He neither begets nor is born,",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "نہ کسی کا باپ ہے اور نہ کسی کا بیٹا",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    },
+    {
+      "ayah": 4,
+      "arabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "translations": {
+        "en": {
+          "text": "Nor is there to Him any equivalent.\"",
+          "translator": "Saheeh International",
+          "source": "Tanzil Project (tanzil.net)"
+        },
+        "ur": {
+          "text": "اور کوئی اس کا ہمسر نہیں",
+          "translator": "Fateh Muhammad Jalandhry (فتح محمد جالندھری)",
+          "source": "Tanzil Project (tanzil.net)"
+        }
+      }
+    }
+  ]
+}
